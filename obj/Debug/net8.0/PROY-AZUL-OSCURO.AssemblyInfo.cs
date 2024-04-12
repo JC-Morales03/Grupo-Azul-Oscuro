@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PROY-AZUL-OSCURO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f5f078d97a47b77be7331779fc84a9ccad6f849d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+82014e53d1433303f2591ff1bd8263c1ffcbb19c")]
 [assembly: System.Reflection.AssemblyProductAttribute("PROY-AZUL-OSCURO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PROY-AZUL-OSCURO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
